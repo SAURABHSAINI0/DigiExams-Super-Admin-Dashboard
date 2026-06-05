@@ -12,3 +12,6 @@ Monitor all exam evaluations in real-time
 Track scripts, batches, and evaluator progress
 Manage rejections and record corrections
 View system-wide analytics at once.
+
+<img width="1825" height="807" alt="image" src="https://github.com/user-attachments/assets/cda05c91-b0c9-4761-b083-e9962d8baeb7" />
+
