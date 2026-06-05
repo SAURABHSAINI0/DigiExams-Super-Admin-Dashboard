@@ -1,6 +1,11 @@
 # DigiExams-Super-Admin-Dashboard
 This is the Super Admin Panel of the DigiExams Exam Evaluation Management System. It provides complete control and monitoring over the entire exam evaluation workflow.
 
+What is this?
+Complete exam evaluation management system
+Super Admin controls everything
+Real-time monitoring dashboard
+
 Purpose:
 This dashboard allows the Super Admin to:
 Monitor all exam evaluations in real-time
